@@ -11,6 +11,16 @@ body {
 margin-bottom: 5px; color: white;
 }
 
+.yt {
+   text-align: center;
+   color: white;
+}
+
+.mail {
+   text-align: center;
+   color: white;
+}
+
 #navegador ul{
     list-style-type: none;
     text-align: center;
@@ -31,3 +41,5 @@ margin-bottom: 5px; color: white;
     background-color: #333333;
     color: #ffffff;
  }
+
+ 
